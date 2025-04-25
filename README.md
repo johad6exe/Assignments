@@ -1,2 +1,2 @@
 # Assignments
-Task 1
+Daily Tasks for Machine Learning fundamentals practice.
